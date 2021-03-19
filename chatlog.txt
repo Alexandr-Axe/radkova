@@ -1,0 +1,23 @@
+--------------------------------
+12.8.2020
+01:45:00 - Projekt øádková šifra vytvoøen, skoro hotové 6x11 123456
+
+Celkovı èas = 01:45:00
+--------------------------------
+13.8.2020
+00:30:00 - Hotové 6x11 123456
+01:40:00 - Hotové kódovì, testováno na rùznıch kombinacích
+00:20:00 - Projekt posunka vytvoøen, základní posunka hotová
+00:15:00 - Funkèní posunka doprava//NEFUNKÈNÍ
+
+Celkovı èas = 04:30:00
+--------------------------------
+14.8.2020
+00:10:00 - Funkèní posunka doprava i doleva
+00:35:00 - Vzhled "na oko"
+01:10:00 - Pokus o ètverec, systém charù s ID
+00:35:00 - Funkèní logická, pøevádìní znakù na èísla
+00:30:00 - Základ telefonní šifry, vymyslet logiku zalušování
+
+Celkovı èas = 03:00:00
+--------------------------------
