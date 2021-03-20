@@ -1,0 +1,4 @@
+Cesarova šifra je druhý textbox zleva. Zadáte text, vyberete si směr posunu šifry a kliknete
+na příslušné tlačítko. Zašifrovaný text se Vám automaticky zkopíruje, takže ho můžete pomocí
+zkratky CTRL+V snadno vložit do jiného z textboxů. Těch si prosím nevšímejte, program jsem
+psal v rámci tábora.
